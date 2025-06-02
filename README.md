@@ -1,5 +1,10 @@
 # Predição de Eventos Climáticos Extremos
 
+#Integrantes
+igor
+Cauã
+Thiago
+
 ## Visão Geral
 
 Este projeto desenvolve um modelo de Machine Learning para **predizer o número de eventos climáticos extremos** com base em variáveis ambientais e climáticas globais. Utilizando dados de 15 países coletados entre 2000-2023, o projeto aplica técnicas avançadas de ciência de dados para entender e prever padrões de eventos extremos relacionados às mudanças climáticas.
