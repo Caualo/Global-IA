@@ -1,9 +1,9 @@
 # Predição de Eventos Climáticos Extremos
 
 #Integrantes
-igor
-Cauã
-Thiago
+Igor Oviedo RM553434
+Cauã Loureiro RM553093
+Thiago Carrillo RM553565
 
 ## Visão Geral
 
